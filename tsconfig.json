@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "declaration": true,
+      "emitDeclarationOnly": true,
+      "target": "ES6", // future version
+      "module": "ES6", // current version
+      "outDir": "types",
+      "typeRoots": ["types"],
+      "esModuleInterop": true,
+  },
+  "include": [
+      "src"]
+}
