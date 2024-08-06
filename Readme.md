@@ -1,5 +1,6 @@
 # Creating .d.ts file
 
+Using Existing JS file with .d.ts files
 
 ## Description
 
